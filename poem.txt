@@ -3,6 +3,7 @@ Te Rainbow
 Purple
 Pink
 Orange
+Green
 Blue
 
 These are the colors of a rainbow
